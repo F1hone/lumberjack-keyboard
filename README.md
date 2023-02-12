@@ -8,7 +8,7 @@ The goal of this project is to build an all through-hole component ortholinear P
 
 Inspired by the [Plaid keyboard](https://github.com/hsgw/plaid).
 
-![PCB render](images/pcb-render.jpg)
+![PCB render](images/pcb-render.png)
 
 * Designed to be easy to build with minimal soldering experience.
 * All through-hole components, no SMD soldering required.

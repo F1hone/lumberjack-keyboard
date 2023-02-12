@@ -4264,7 +4264,7 @@
     (uuid 00000000-0000-0000-0000-00005c16fb14)
     (property "Reference" "U1" (id 0) (at 50.8 140.97 0))
     (property "Value" "ATMEGA328-PU" (id 1) (at 50.8 143.51 0))
-    (property "Footprint" "Package_DIP:DIP-28_W7.62mm" (id 2) (at 50.8 142.24 0)
+    (property "Footprint" "Package_DIP:DIP-28_W7.62mm_Socket" (id 2) (at 50.8 142.24 0)
       (effects (font (size 1.27 1.27) italic) hide)
     )
     (property "Datasheet" "http://www.atmel.com/images/atmel-8271-8-bit-avr-microcontroller-atmega48a-48pa-88a-88pa-168a-168pa-328-328p_datasheet.pdf" (id 3) (at 50.8 142.24 0)
@@ -6434,7 +6434,7 @@
       (reference "SW2") (unit 1) (value "BOOT") (footprint "Button_Switch_THT:SW_PUSH_6mm")
     )
     (path "/00000000-0000-0000-0000-00005c16fb14"
-      (reference "U1") (unit 1) (value "ATMEGA328-PU") (footprint "Package_DIP:DIP-28_W7.62mm")
+      (reference "U1") (unit 1) (value "ATMEGA328-PU") (footprint "Package_DIP:DIP-28_W7.62mm_Socket")
     )
     (path "/00000000-0000-0000-0000-00005c3232f3"
       (reference "Y1") (unit 1) (value "16MHz") (footprint "Crystal:Crystal_HC49-4H_Vertical")
